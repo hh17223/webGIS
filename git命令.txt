@@ -25,6 +25,11 @@
     git remote add 远程仓库别名 远程仓库的http地址
 13.查看远程仓库
     git remote
+14.拉取别人的仓库
+    git clone
+15.拉取自己的仓库------必须保持远程仓库和本地仓库的一致性
+    git pull --rebase
+    在进行git push
 
 
 
