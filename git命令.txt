@@ -21,6 +21,10 @@
 10.查看整个回溯版本的历史信息
     git reflog
 11.在.gitignore配置不被追踪的文件
+12.添加远程仓库地址
+    git remote add 远程仓库别名 远程仓库的http地址
+13.查看远程仓库
+    git remote
 
 
 
