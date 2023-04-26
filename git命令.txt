@@ -36,6 +36,8 @@
     git branch 分支名
 18.切换分支
     git checkout 分支名
+19.分支合并(主分支marster上合并其他分支)
+    git merge 需要合并的分支名
 
 
 
