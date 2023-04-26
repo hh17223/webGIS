@@ -16,11 +16,11 @@
     git checkout 文件名
 8.从git管理中永久删除文件
     git rm 文件名
-9.查看历史操作
+9.版本回退
+    git reset --hard 版本号
+10.查看整个回溯版本的历史信息
     git reflog
-
-
-
+11.在.gitignore配置不被追踪的文件
 
 
 
