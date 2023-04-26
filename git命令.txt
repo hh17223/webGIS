@@ -30,6 +30,13 @@
 15.拉取自己的仓库------必须保持远程仓库和本地仓库的一致性
     git pull --rebase
     在进行git push
+16.查看分支
+    git branch
+17.新建分支
+    git branch 分支名
+18.切换分支
+    git checkout 分支名
+
 
 
 
