@@ -1,0 +1,11 @@
+﻿1.设置用户信息
+    git config --global user.name <username>
+    git config --global user.email <mailaddress>
+2.初始化本地仓库
+    git init
+3.将工作区文件添加到暂存区
+    git add
+    git add .  add所有文件
+4.查看文件状态
+    git status
+5.
